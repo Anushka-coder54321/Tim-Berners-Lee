@@ -1,0 +1,41 @@
+hr{
+    width: 100px ;
+    height: 5px;
+    background-color:darkturquoise;
+
+}
+p{
+    max-width: 500px;
+    text-align: justify;
+    font-family:fantasy;
+    font-size: 20px;
+}
+#intro{
+    background: linear-gradient(pink 0%,lightblue 100%);
+    padding: 15px;
+}
+.menu{
+    list-style: none;
+    top: 10px;
+    right: 16px;
+    position:fixed;
+    
+}
+.items{
+    float: left;
+    padding: 5px;
+    margin:6px;
+    font-size: 20px;
+}
+.items:hover {
+    background-color: darksalmon;
+    font-family: fantasy;
+    
+}
+#Tim{
+   margin-top: 150px;
+    border-radius:175px;
+    border: 3px dotted purple;
+    
+    
+}
